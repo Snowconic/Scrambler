@@ -1,7 +1,8 @@
 Scrambler
 =========
+Small project made to pass time after finding a friend who hates typos.
 
-Scrambles the letters inside the words of sentences while leaving the first and last characters alone, then copies the result to clipboard automatically
+Scrambles the letters inside the words of sentences while leaving the first and last characters alone, then copies the result to clipboard automatically.
 
 To be added or changed:
 
