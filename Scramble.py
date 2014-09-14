@@ -7,7 +7,7 @@ def scramble(source):
         length = len(new)
         result.append(new[0]) #Places first letter into new string, saves last, then scrambles the rest in order to prevent first and last letters from changing
         end = new[length - 1]
-        if not end.isalpha():
+        if not end.isalpha(): #Checks if the word has punctuation at the end, saves both it and the last character if so
             end = new[length - 2] + new[length - 1]
             del new[length - 2]
             del new[length - 2]
