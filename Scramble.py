@@ -6,6 +6,7 @@ def scramble(source):
         new = list(source) #Turns word into a list to scramble with shuffle()
         length = len(new)
         result.append(new[0]) #Places first letter into new string, saves last, then scrambles the rest in order to prevent first and last letters from changing
+        end = new[length - 1]
         if not end.isalpha():
             end = new[length - 2] + new[length - 1]
             del new[length - 2]
