@@ -14,3 +14,6 @@ Find ways to copy the result to the clipboard without the use of pyperclip
 
 May decide to add function that asks the user if they want the word to be scrambled 100% of the time
 (As current system has a small chance of not scrambling the word)
+
+ALSO:
+Oh god I don't know why my old account ended up being the one pushing the program and all that, I have no idea why that happened and/or is happening.
